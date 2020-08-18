@@ -1,7 +1,7 @@
 module.exports = {
   name: 'DOORPOST',
-  shortName: 'LONDON',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
+  shortName: 'DOORPOST',
+  description: '这是一个尚在调试中的页面，基于 GitHub & Netlify 构建',
   url: 'https://blog.zhangcheng.org/', // Domain of your site without prefix!
   prefix: '/',
   author: 'Flotiq Developers',
