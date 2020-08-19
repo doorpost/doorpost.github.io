@@ -126,13 +126,6 @@ body {
     font-size: 1.4rem;
 }
 
-.site-foot-right {
-    margin: 3vw 0 1vw;
-    text-align: right;
-    color: color(var(--color-border) l(-20%));
-    font-size: 1.4rem;
-}
-
 .site-foot a {
     color: var(--color-base);
 }
