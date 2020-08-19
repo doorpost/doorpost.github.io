@@ -88,6 +88,10 @@ const Layout = props => {
           Flotiq
         </a>
       </footer>
+      <footer className="site-foot-right">
+       <img src="https://api.netlify.com/api/v1/badges/8104be56-a5dc-4714-a960-7444ebec8717/deploy-status"  alt="status" />
+        </a>
+      </footer>
     </div>
   )
 };
