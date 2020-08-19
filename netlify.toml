@@ -4,5 +4,3 @@
 
 [template.environment]
   GATSBY_FLOTIQ_API_KEY="YOUR FLOTIQ API KEY"
-[[plugins]]
-package = "netlify-plugin-image-optim"
